@@ -53,5 +53,5 @@ author_profile: true
 * ([WAICF](https://worldaicannes.com/)) World AI Cannes Festival. April 2022.
 * ([DLS](https://univ-cotedazur.fr/events-uca/deep-learning-school)) UCA Deep Learning School. 2020 - 2021.
 * ([MOMI](https://phd-seminars-sam.inria.fr/momi/)) Le Monde des Mathématiques Industrielles. 2020 - 2021.
-* ([SophI.A Summit](https://univ-cotedazur.eu/events/sophia-summit)) Springboard for artificial intelligence. 2019 - 2020.
+* ([SophI.A Summit](https://univ-cotedazur.eu/events/sophia-summit)) Springboard for Artificial Intelligence. 2019 - 2020.
 * ([NEC](https://csti.univ-cotedazur.fr/evenements/nuit-europeenne-des-chercheur-e-s%C2%A0)) La Nuit Européenne des Chercheur·e·s. September 2020.
