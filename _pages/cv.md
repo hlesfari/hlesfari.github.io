@@ -4,7 +4,7 @@ permalink: /cv/
 title: "Curriculum Vitae"
 author_profile: true
 ---
-<font size="2">
+
 Education
 ======
 * **Ph.D. in Computer Science**. Since October 2019.
@@ -32,17 +32,14 @@ Education
 * **High School Diploma in Mathematics**. In 2014.
   * Institute: L'Ange Bleu, El Jadida, Morocco. 
 
-Work experience
+Acdemic Activities
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Teaching assistant.
+  * Reinforcement Learning (Master Level 2), UCA, Total: 6 hours. 2021 - 2022
+  * Réseaux d'opérateurs et réseaux d'accès (IUT Niveau 2, UCA). 2019 - 2022
+    Total: 192 hours (64 hours per academic year).
+    
+* (Invited) TPC member of the 4th International Workshop on Network Intelligence. June 2022
   
 Skills
 ======
@@ -74,4 +71,3 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
-</font> 
