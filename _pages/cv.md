@@ -39,7 +39,7 @@ Acdemic Activities
   * Réseaux d'opérateurs et réseaux d'accès (IUT Niveau 2, UCA). 2019 - 2022
     Total: 192 hours (64 hours per academic year).
     
-* (Invited) TPC member of the 4th International Workshop on Network Intelligence. June 2022
+[]: # * (Invited) TPC member of the 4th International Workshop on Network Intelligence. June 2022
   
 Skills
 ======
