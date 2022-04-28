@@ -4,7 +4,7 @@ permalink: /cv/
 title: "Curriculum Vitae"
 author_profile: true
 ---
-
+<font size="2">
 Education
 ======
 * **Ph.D. in Computer Science**. Since October 2019.
@@ -74,3 +74,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+</font> 
