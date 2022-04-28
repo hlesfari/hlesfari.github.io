@@ -1,5 +1,4 @@
 ---
-layout: home
 permalink: /cv/
 title: "Curriculum Vitae"
 author_profile: true
