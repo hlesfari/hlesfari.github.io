@@ -5,10 +5,10 @@ title: "Curriculum Vitae"
 author_profile: true 
 ---
 
-<span style="font-size:1em;">Education</span>
+<span style="font-size:1.2em;">Education</span>
 
 * **Ph.D. in Computer Science**. Since October 2019.
-  * Institute: Team-project COATI, INRIA Sophia Antipolis - CNRS. 
+  * <span style="font-size:1em;">Institute: Team-project COATI, INRIA Sophia Antipolis - CNRS.</span>
   * Thesis: Machine learning for dynamic network resource allocation. 
   * Supervisor: [Frédéric Giroire](http://www-sop.inria.fr/members/Frederic.Giroire/).
 
