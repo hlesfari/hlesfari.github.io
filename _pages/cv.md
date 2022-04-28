@@ -32,9 +32,9 @@ author_profile: true
   
 <span style="font-size:1.2em;">**Awards, Grants and Scholarships**</span>
 * [Laureate of UCA-DS4H doctoral grant](https://ds4h.univ-cotedazur.eu/education/phd/2019-phd-fundings-laureates). October 2019.
-* Labex Scholarship (Labex UCN@Sophia) from Université Côte d'Azur. September 2018 - September 2019.
+* Labex Scholarship ([Labex UCN@Sophia](https://ds4h.univ-cotedazur.eu/about-us/labex-ucnsophia)) from Université Côte d'Azur. September 2018 - September 2019.
 * Excellence Scholarship from International University of Rabat. September 2014 - June 2016.
-* Winner of the Regional Mathematics Olympiad of Doukkala-Abda, Morocco. 
+* Winner of the Regional Mathematics Olympiad of Doukkala-Abda, Morocco. June 2013.
 
 <span style="font-size:1.2em;">**Awards, Grants and Scholarships**</span>
 * Teaching assistant.
