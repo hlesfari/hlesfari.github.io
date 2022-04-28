@@ -28,3 +28,5 @@ author_profile: true
 
 <span style="font-size:1.2em;">**Research Reports**</span>
 * Arthur Carvalho Walraven Da Cunha, Francesco D’Amore, Frédéric Giroire, <em>Hicham Lesfari</em>, Emanuele Natale, Laurent Viennot. <a>Revisiting the Random Subset Sum problem</a>.
+* Adrien Gausseran, Redha Alliche, <em>Hicham Lesfari</em>, Ramon Aparicio-Pardo, Frédéric Giroire, Joanna Moulierac. <a>Reconfiguring Network
+Slices at the Best Time With Deep Reinforcement Learning</a>.
