@@ -23,6 +23,11 @@
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Markdown" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,7 +37,7 @@
       <option name="presentableId" value="Default" />
       <updated>1651106621309</updated>
       <workItem from="1651106624936" duration="1383000" />
-      <workItem from="1651137012133" duration="1368000" />
+      <workItem from="1651137012133" duration="1577000" />
     </task>
     <task id="LOCAL-00001" summary="Change">
       <created>1651137165905</created>
