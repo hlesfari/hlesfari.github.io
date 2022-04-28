@@ -7,9 +7,10 @@ author_profile: true
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Computer Science. Since October 2019.
+  * Institute: Team-project COATI, INRIA Sophia Antipolis - CNRS. 
+  * Thesis: Machine learning for dynamic network resource allocation. 
+  * Supervisor: [Frédéric Giroire] (http://www-sop.inria.fr/members/Frederic.Giroire/).
 
 Work experience
 ======
