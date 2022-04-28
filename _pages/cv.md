@@ -38,9 +38,9 @@ author_profile: true
 
 <span style="font-size:1.2em;">**Academic activities**</span>
 * Teaching assistant.
-  * Reinforcement Learning (Master Level 2), Université Côte D'Azur . 2021 - 2022
-    Total: 6 hours/
-  * Réseaux d'opérateurs et réseaux d'accès (IUT Niveau 2, Université Côte D'Azur). 2019 - 2022
+  * Reinforcement Learning (Master Level 2), Université Côte D'Azur. 2021 - 2022.
+    Total: 6 hours.
+  * Réseaux d'opérateurs et réseaux d'accès (IUT Niveau 2, Université Côte D'Azur). 2019 - 2022.
     Total: 192 hours (64 hours per academic year).
     
 <span style="font-size:1.2em;">**Scientific Dissemination**</span>
