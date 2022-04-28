@@ -36,14 +36,12 @@ author_profile: true
 * Excellence Scholarship from International University of Rabat. September 2014 - June 2016.
 * Winner of the Regional Mathematics Olympiad of Doukkala-Abda, Morocco. June 2013.
 
-<span style="font-size:1.2em;">**Awards, Grants and Scholarships**</span>
+<span style="font-size:1.2em;">**Academic activities**</span>
 * Teaching assistant.
   * Reinforcement Learning (Master Level 2), UCA, Total: 6 hours. 2021 - 2022
   * Réseaux d'opérateurs et réseaux d'accès (IUT Niveau 2, UCA). 2019 - 2022
     Total: 192 hours (64 hours per academic year).
     
-* (<em>Invited<em/>) TPC member of the 4th International Workshop on Network Intelligence. June 2022
-  
 <span style="font-size:1.2em;">Scientific Dissemination</span>
 * Scientific mediator at [Maison de l'Intelligence Artificielle](https://maison-intelligence-artificielle.com/). 2021 - now
 * Member of [Terra Numerica](http://terra-numerica.org/). 2021 - now
