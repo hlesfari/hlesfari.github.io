@@ -4,8 +4,8 @@ permalink: /cv/
 author_profile: true 
 ---
 
-<span style="font-size:1.5em;">**Education**</span>
-* <span style="font-size:18px;">**Ph.D. in Computer Science**. Since October 2019.</span>
+<span style="font-size:1.2em;">**Education**</span>
+* **Ph.D. in Computer Science**. Since October 2019.
   * Institute: Team-project [COATI](https://team.inria.fr/coati/), [INRIA Sophia Antipolis](https://www.inria.fr/en/inria-centre-universite-cote-azur/) - [CNRS](https://www.cnrs.fr/en). 
   * Thesis: Machine learning for dynamic network resource allocation. 
   * Supervisor: [Frédéric Giroire](http://www-sop.inria.fr/members/Frederic.Giroire/).
@@ -38,9 +38,9 @@ author_profile: true
 
 <span style="font-size:1.2em;">**Academic activities**</span>
 * Teaching assistant.
-  * Reinforcement Learning (Master Level 2), Université Côte D'Azur. 2021 - 2022.
+  * Reinforcement Learning (Master Level 2), Université Côte D'Azur. 2021 - 2022
     Total: 6 hours.
-  * Réseaux d'opérateurs et réseaux d'accès (IUT Niveau 2, Université Côte D'Azur). 2019 - 2022.
+  * Réseaux d'opérateurs et réseaux d'accès (IUT Niveau 2, Université Côte D'Azur). 2019 - 2022
     Total: 192 hours (64 hours per academic year).
     
 <span style="font-size:1.2em;">**Scientific Dissemination**</span>
