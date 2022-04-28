@@ -44,9 +44,9 @@ author_profile: true
     Total: 192 hours (64 hours per academic year).
     
 <span style="font-size:1.2em;">**Scientific Dissemination**</span>
-* Scientific mediator at [Maison de l'Intelligence Artificielle](https://maison-intelligence-artificielle.com/). 2021 - now
-* Member of [Terra Numerica](http://terra-numerica.org/). 2021 - now
-* Co-organizer of [Fête de la Science of Nice (30th edition)](https://csti.univ-cotedazur.fr/evenements/fete-de-la-science/festival-des-sciences-de-nice). October 2021
+* Scientific mediator at [Maison de l'Intelligence Artificielle](https://maison-intelligence-artificielle.com/). Since 2021.
+* Member of [Terra Numerica](http://terra-numerica.org/). Since 2021.
+* Co-organizer of [Fête de la Science of Nice (30th edition)](https://csti.univ-cotedazur.fr/evenements/fete-de-la-science/festival-des-sciences-de-nice). October 2021.
 
 
 <span style="font-size:1.2em;">**Schools and Workshops**</span>
