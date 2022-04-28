@@ -3,6 +3,9 @@ layout: home
 permalink: /cv/
 title: "Curriculum Vitae"
 author_profile: true
+output:
+  html_document:
+    css: style.css
 ---
 
 Education
