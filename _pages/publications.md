@@ -13,10 +13,10 @@ author_profile: true
         to appear in Proceedings of IEEE International Conference on Computer Communications
         (<span style="font-family: Georgia; ">INFOCOM 2022</span>), London (online), United Kingdom, June 2022.
   
-* <em>Hicham Lesfari</em>, Frédéric Giroire. <a>Nadege: When Graph Kernels meet Network Anomaly Detection</a>,
-        to appear in Proceedings of IEEE International Conference on Computer Communications
-        (<span style="font-family: Georgia; ">INFOCOM 2022</span>), London, UK, June 2022.
-
+* <em>Hicham Lesfari,</em>, Frédéric Giroire, Giuseppe Di Lena, Chidung Lac. <a>A multidimensional coloured packing approach for network slicing with dedicated protection</a>,
+        to appear in  Proceedings of IEEE Global Communications Conference
+        (<span style="font-family: Georgia; ">GLOBECOM 2021</span>), Madrid, Spain, December 2022.
+  
 <span style="font-size:1.2em;">**National Conferences**</span>
 * <em>Hicham Lesfari</em>, Frédéric Giroire. <a>Une rencontre entre les noyaux de graphes et la détection d'anomalies dans les réseaux</a>,
         23ème Rencontres Francophones sur les Aspects Algorithmiques des Télécommunications
