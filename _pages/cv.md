@@ -1,12 +1,12 @@
 ---
-layout: home
+layout: single
 permalink: /cv/
 title: "Curriculum Vitae"
 author_profile: true 
 ---
 
-Education
-======
+**Education**
+
 * **Ph.D. in Computer Science**. Since October 2019.
   * Institute: Team-project COATI, INRIA Sophia Antipolis - CNRS. 
   * Thesis: Machine learning for dynamic network resource allocation. 
