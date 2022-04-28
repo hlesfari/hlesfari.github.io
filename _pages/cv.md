@@ -32,7 +32,14 @@ Education
 * **High School Diploma in Mathematics**. In 2014.
   * Institute: L'Ange Bleu, El Jadida, Morocco. 
 
-Acdemic Activities
+Awards, Grants and Scholarships
+======
+* [Laureate of UCA-DS4H doctoral grant](https://ds4h.univ-cotedazur.eu/education/phd/2019-phd-fundings-laureates). October 2019.
+* Labex Scholarship (Labex UCN@Sophia) from Université Côte d'Azur. September 2018 - September 2019.
+* Excellence Scholarship from International University of Rabat. September 2014 - June 2016.
+* Winner of the Regional Mathematics Olympiad of Doukkala-Abda, Morocco. 
+
+Academic Activities
 ======
 * Teaching assistant.
   * Reinforcement Learning (Master Level 2), UCA, Total: 6 hours. 2021 - 2022
@@ -41,33 +48,18 @@ Acdemic Activities
     
 []: # * (Invited) TPC member of the 4th International Workshop on Network Intelligence. June 2022
   
-Skills
+Scientific Dissemination
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Scientific mediator at [Maison de l'Intelligence Artificielle](https://maison-intelligence-artificielle.com/). 2021 - now
+* Member of [Terra Numerica](http://terra-numerica.org/). 2021 - now
+* Co-organizer of [Fête de la Science of Nice (30th edition)](https://csti.univ-cotedazur.fr/evenements/fete-de-la-science/festival-des-sciences-de-nice). October 2021
 
-Publications
+Schools and Workshops
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* (WAICF) World AI Cannes Festival. April 2022
+* (DLS) UCA Deep Learning School. 2020 - 2021
+* (MOMI) Le Monde des Mathématiques Industrielles. 2020 - 2021
+* (SophI.A Summit) Springboard for artificial intelligence. 2019 - 2020
+* La Nuit Européenne des Chercheur·e·s. September 2020
+* (Foruma Numerica) Fundamental studies on the interpretation, compression and 
+ robustness of convolutional neural network architectures. March 2020
