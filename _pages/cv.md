@@ -1,11 +1,11 @@
 ---
-layout: single
+layout: base
 permalink: /cv/
 title: "Curriculum Vitae"
 author_profile: true 
 ---
 
-<span style="font-size:1.5em;">Education</span>
+<span style="font-size:1em;">Education</span>
 
 * **Ph.D. in Computer Science**. Since October 2019.
   * Institute: Team-project COATI, INRIA Sophia Antipolis - CNRS. 
