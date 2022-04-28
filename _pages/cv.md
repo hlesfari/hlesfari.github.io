@@ -22,7 +22,7 @@ author_profile: true
   * Thesis: Nonparametric density estimation methods.
   * Supervisor: Mohammed Fekri.
   
-* **Engineer's Degree in Computer Science**.  From 2014 to 2016.
+* **CPGE in Mathematics and Physics**.  From 2014 to 2016.
   * Institute: [International University of Rabat](https://www.uir.ac.ma/en), Rabat, Morocco. 
   * TIPE: Cryptosystems based on elliptic and hyperelliptic curves.
   * Supervisor: My Ismail Mamouni.
