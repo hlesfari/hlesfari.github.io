@@ -42,13 +42,13 @@ author_profile: true
   * Réseaux d'opérateurs et réseaux d'accès (IUT Niveau 2, UCA). 2019 - 2022
     Total: 192 hours (64 hours per academic year).
     
-<span style="font-size:1.2em;">Scientific Dissemination</span>
+<span style="font-size:1.2em;">**Scientific Dissemination**</span>
 * Scientific mediator at [Maison de l'Intelligence Artificielle](https://maison-intelligence-artificielle.com/). 2021 - now
 * Member of [Terra Numerica](http://terra-numerica.org/). 2021 - now
 * Co-organizer of [Fête de la Science of Nice (30th edition)](https://csti.univ-cotedazur.fr/evenements/fete-de-la-science/festival-des-sciences-de-nice). October 2021
 
 
-<span style="font-size:1.2em;">Schools and Workshops</span>
+<span style="font-size:1.2em;">**Schools and Workshops**</span>
 * (WAICF) World AI Cannes Festival. April 2022
 * (DLS) UCA Deep Learning School. 2020 - 2021
 * (MOMI) Le Monde des Mathématiques Industrielles. 2020 - 2021
