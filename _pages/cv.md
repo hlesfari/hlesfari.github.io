@@ -5,6 +5,21 @@ title: "Curriculum Vitae"
 author_profile: true
 ---
 
+<html>
+      <head>
+         <title>HTMLFont size</title>
+      </head>
+      <body>
+         <h1 style="font-size:20px;">Education</h1>
+         <p style="font-size:18px;">I am a PhD student at <a href="https://univ-cotedazur.eu/">Université Côte D'Azur</a> in the <a href="https://team.inria.fr/coati/">COATI</a>
+             joint project-team between <a href="https://www.inria.fr/en/inria-centre-universite-cote-azur/">Inria Sophia Antipolis Méditerranée</a>and the
+             <a href="https://www.i3s.unice.fr/en/">I3S Laboratory</a> of the <a href="https://www.cnrs.fr/en">CNRS</a>, under the supervision of
+             <a href="http://www-sop.inria.fr/members/Frederic.Giroire/">Frédéric Giroire</a>.</p>
+      </body>
+</html>
+
+
+
 Education
 ======
 * **Ph.D. in Computer Science**. Since October 2019.

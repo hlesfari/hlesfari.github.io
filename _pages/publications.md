@@ -5,7 +5,7 @@ title: "Publications"
 author_profile: true
 ---
 
-Educationj
+Education
 ======
 * **Ph.D. in Computer Science**. Since October 2019.
   * Institute: Team-project COATI, INRIA Sophia Antipolis - CNRS. 
