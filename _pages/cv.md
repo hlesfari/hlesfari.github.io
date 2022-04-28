@@ -29,16 +29,14 @@ author_profile: true
   
 * **High School Diploma in Mathematics**. In 2014.
   * Institute: L'Ange Bleu, El Jadida, Morocco. 
-
-Awards, Grants and Scholarships
-======
+  
+<span style="font-size:1.2em;">**Awards, Grants and Scholarships**</span>
 * [Laureate of UCA-DS4H doctoral grant](https://ds4h.univ-cotedazur.eu/education/phd/2019-phd-fundings-laureates). October 2019.
 * Labex Scholarship (Labex UCN@Sophia) from Université Côte d'Azur. September 2018 - September 2019.
 * Excellence Scholarship from International University of Rabat. September 2014 - June 2016.
 * Winner of the Regional Mathematics Olympiad of Doukkala-Abda, Morocco. 
 
-Academic Activities
-======
+<span style="font-size:1.2em;">**Awards, Grants and Scholarships**</span>
 * Teaching assistant.
   * Reinforcement Learning (Master Level 2), UCA, Total: 6 hours. 2021 - 2022
   * Réseaux d'opérateurs et réseaux d'accès (IUT Niveau 2, UCA). 2019 - 2022
@@ -46,14 +44,13 @@ Academic Activities
     
 * (<em>Invited<em/>) TPC member of the 4th International Workshop on Network Intelligence. June 2022
   
-Scientific Dissemination
-======
+<span style="font-size:1.2em;">Scientific Dissemination</span>
 * Scientific mediator at [Maison de l'Intelligence Artificielle](https://maison-intelligence-artificielle.com/). 2021 - now
 * Member of [Terra Numerica](http://terra-numerica.org/). 2021 - now
 * Co-organizer of [Fête de la Science of Nice (30th edition)](https://csti.univ-cotedazur.fr/evenements/fete-de-la-science/festival-des-sciences-de-nice). October 2021
 
-Schools and Workshops
-======
+
+<span style="font-size:1.2em;">Schools and Workshops</span>
 * (WAICF) World AI Cannes Festival. April 2022
 * (DLS) UCA Deep Learning School. 2020 - 2021
 * (MOMI) Le Monde des Mathématiques Industrielles. 2020 - 2021
