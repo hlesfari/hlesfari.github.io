@@ -49,7 +49,7 @@ author_profile: true
 * Co-organizer of [Fête de la Science of Nice (30th edition)](https://csti.univ-cotedazur.fr/evenements/fete-de-la-science/festival-des-sciences-de-nice). October 2021.
 
 
-<span style="font-size:1.2em;">**Schools and Workshops**</span>
+<span style="font-size:1.2em;">**Schools, Workshops and Events**</span>
 * ([WAICF](https://worldaicannes.com/)) World AI Cannes Festival. April 2022.
 * ([DLS](https://univ-cotedazur.fr/events-uca/deep-learning-school)) UCA Deep Learning School. 2020 - 2021.
 * ([MOMI](https://phd-seminars-sam.inria.fr/momi/)) Le Monde des Mathématiques Industrielles. 2020 - 2021.
