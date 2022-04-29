@@ -4,7 +4,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-Forthcoming
+Forthcominggggggg
 • Biased Majority Opinion Dynamics: Exploiting graph k-domination, at :
 - IJCAI, Vienna (Austria). July 2022
 - (HALG) Highlights of Algorithms, London (UK). June 2022
