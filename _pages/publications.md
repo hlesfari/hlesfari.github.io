@@ -13,7 +13,7 @@ author_profile: true
         to appear in Proceedings of IEEE International Conference on Computer Communications
         (<span style="font-family: Georgia; ">INFOCOM 2022</span>), London (online), United Kingdom, June 2022.
   
-* <em>Hicham Lesfari,</em>, Frédéric Giroire, Giuseppe Di Lena, Chidung Lac. <a>A multidimensional coloured packing approach for network slicing with dedicated protection</a>,
+* <em>Hicham Lesfari</em>, Frédéric Giroire, Giuseppe Di Lena, Chidung Lac. <a>A multidimensional coloured packing approach for network slicing with dedicated protection</a>,
         to appear in  Proceedings of IEEE Global Communications Conference
         (<span style="font-family: Georgia; ">GLOBECOM 2021</span>), Madrid, Spain, December 2022.
   
