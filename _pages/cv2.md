@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /cv/
+permalink: /cv2/
 author_profile: true 
 ---
 
