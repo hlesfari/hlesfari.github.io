@@ -62,9 +62,9 @@
   }
 
   img {
-    width: 100%;
+    width: 200%;
     border-radius: 0%; // shape of avatar
-    max-width: 300px; // size of avatar
+    max-width: 1000px; // size of avatar
 
     &.emoji {
       width: 20px;
