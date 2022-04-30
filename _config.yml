@@ -58,6 +58,7 @@ plugins:
 author:
   name   : "Hicham Lesfari <br /> — Almost Surely"
   avatar : "/assets/images/bio-photo.jpg"
+  bio    : ""
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
