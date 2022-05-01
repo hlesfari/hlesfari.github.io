@@ -13,14 +13,19 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Hello, world!
+title: Title miam miam
+title_separator: |
+subtitle: Subtitle miam miam
 identity: Hicham Lesfari
+name: name miam miam
+teaser: /assets/images/bio-photo.jpg
+masthead_title: mash miam miam
 email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Description.
+description: Welcome to my webpage!
 github_username: universmile
 minimal_mistakes_skin: default
 search: false
+og_image: /assets/images/bio-photo.jpg
 
 # Build settings
 markdown: kramdown
