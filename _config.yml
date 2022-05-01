@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Title miam miam
+title: Hicham Lesfari
+subtitle: — Almost Surely
 title_separator: |
-subtitle: Subtitle miam miam
 identity: Hicham Lesfari
 name: name miam miam
 teaser: /assets/images/bio-photo.jpg
@@ -61,7 +61,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Hicham Lesfari <br /> — Almost Surely"
+  name   : "Hello, world!"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : ""
   links:
