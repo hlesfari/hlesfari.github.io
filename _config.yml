@@ -14,6 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Hicham Lesfari # Tab
+minimal_mistakes_skin: "default"
+minimal_mistakes_skin2: "dark"
 subtitle: — Almost Surely
 title_separator: |
 identity: Hicham Lesfari
@@ -22,7 +24,6 @@ masthead_title: Hicham Lesfari
 email:
 description: Hello, world!
 github_username: universmile
-minimal_mistakes_skin: default
 search: false
 og_image: /assets/images/bio-photo.jpg
 
