@@ -21,8 +21,7 @@ description: Hello, world!
 github_username: universmile
 search: false
 og_image: /assets/images/bio-photo.jpg
-# Baseurl
-baseurl: /hlesfari.github.io
+baseurl: https://hlesfari.github.io/
 
 # Build settings
 markdown: kramdown
